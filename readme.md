@@ -12,3 +12,6 @@ npm i express
 
 4 .babel -chuyển đổi es6-es5
 npm i @babel/cli @babel/core @babel/preset-env @babel/node
+
+5.
+git push -u origin main
